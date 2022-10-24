@@ -1,0 +1,29 @@
+.navbar{
+    width: 100%;
+
+    padding: 10px;
+    background-color: tan;
+    display: flex;
+    border-bottom: 2px solid brown;
+}
+.nav-logo{
+    position: relative;
+    top: 5px;
+}
+.nav-list{
+    margin-left: 500px;
+
+}
+.nav-items{
+    list-style-type: none;
+    display: flex;
+    position: relative;
+    top: -10px;
+}
+.nav-item{
+    margin: 0px 15px;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+}

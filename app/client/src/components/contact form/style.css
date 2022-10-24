@@ -1,0 +1,30 @@
+.label{
+    display: block;
+}
+.container{
+    width: 80%;
+    padding: 30px;
+    margin: 40px 10%;
+    background-color: transparent;
+}
+.input{
+    width: 900px!important;
+    margin: 8px 0px;
+    padding: 20px;
+    border: 2px solid brown;
+    border-radius: 15px;
+    background-color: tan;
+}
+textarea{
+    height: 350px!important;
+}
+.btn{
+    background-color: green;
+    padding: 10px 15px;
+    margin: 10px;
+    /* border: 1px solid black; */
+    border-radius: 15%;
+}
+h1{
+    text-align: center;
+}

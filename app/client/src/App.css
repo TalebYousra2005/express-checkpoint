@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-style: italic;
+}
+.forbidden-container{
+    padding: 20px;
+    margin: 120px 320px;
+    width: 600px;
+    height: 300px;
+    border: 2px solid brown;
+    border-radius: 15%;
+    text-align: center;
+}
+.red-text{
+    color: tomato;
+    font-weight: 800;
+}
+
+.grey-text{
+    color: grey;
+}
